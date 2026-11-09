@@ -1,0 +1,52 @@
+Git and GitHub Version Control Practical
+
+1. Introduction
+
+Git is a version control system used to track changes made to source code. GitHub is an online platform that allows developers to store projects and collaborate with others.
+
+2. Practical Objectives
+
+* Understand how repositories work.
+* Learn how commits record changes.
+* Understand branches and merging.
+* Learn how GitHub supports collaboration.
+
+3. Important Git Concepts
+
+Repository: A place where project files and their change history are stored.
+
+Commit: A saved record of changes made to a project.
+
+Branch: A separate line of development that allows changes to be made without affecting the main branch immediately.
+
+Merge: Combining changes from one branch into another.
+
+Pull Request: A request to review and merge changes into another branch.
+
+4. Common Git Commands
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch feature-update
+git checkout feature-update
+git merge feature-update
+git push
+git pull
+
+5. Practical Activities
+
+1. Create a GitHub repository.
+2. Add a README file.
+3. Create a new file called git-practice.md.
+4. Make changes to the file and commit them.
+5. Create a separate branch for additional changes.
+6. Open a pull request and merge the changes into the main branch.
+
+6. What I Learned
+
+I learned that Git helps developers track changes and maintain different versions of their projects. GitHub makes it easier to share code, review changes and collaborate with other developers.
+
+7. Conclusion
+
+Git and GitHub are important tools in software development because they help developers manage projects, track changes and work together efficiently.
