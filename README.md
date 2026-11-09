@@ -26,4 +26,4 @@ This repository will be used to document practical exercises,
 assignments, and projects completed during the course.
 
 ## Repository Owner
-Mides-Tech
+TAJUDEEN AYOMIDE SHAKIRLLAH 
